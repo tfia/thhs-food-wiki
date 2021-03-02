@@ -1,0 +1,20 @@
+site_name: 清华附中食堂操蛋食物Wiki
+theme:
+  name: material
+  palette:
+  # Light mode
+    - scheme: default
+      primary: deep purple
+      accent: blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: 关灯
+
+    # Dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/lightbulb
+        name: 开灯
+    
